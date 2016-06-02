@@ -130,7 +130,7 @@ Form fields can be hidden using the following settings::
     FLUENT_COMMENTS_EXCLUDE_FIELDS = ('name', 'email', 'url')
     COMMENTS_APP = 'fluent_comments'
 
-When `django-threadedcomments`_ in used, the ``title`` field can also be removed.
+When `django-threadedcomments`_ is used, the ``title`` field can also be removed.
 
 
 Comment moderation
